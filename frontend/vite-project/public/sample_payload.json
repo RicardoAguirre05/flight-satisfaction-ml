@@ -1,0 +1,25 @@
+{
+  "Gender": "Male",
+  "Customer Type": "Loyal Customer",
+  "Type of Travel": "Business travel",
+  "Class": "Eco",
+
+  "Age": 35,
+  "Flight Distance": 500,
+  "Inflight wifi service": 4,
+  "Departure/Arrival time convenient": 3,
+  "Ease of Online booking": 4,
+  "Gate location": 3,
+  "Food and drink": 3,
+  "Online boarding": 4,
+  "Seat comfort": 4,
+  "Inflight entertainment": 5,
+  "On-board service": 4,
+  "Leg room service": 3,
+  "Baggage handling": 4,
+  "Checkin service": 4,
+  "Inflight service": 4,
+  "Cleanliness": 5,
+  "Departure Delay in Minutes": 0,
+  "Arrival Delay in Minutes": 5
+}

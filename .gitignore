@@ -1,8 +1,20 @@
 
+# node / js
 **/node_modules/
-.venv/
-
-**/.env
-
+**/.parcel-cache/
+**/.next/
+**/dist/
+**/build/
+**/.vite/
+# env files (never commit secrets)
 **/.env
 **/.env.*
+# python
+.venv/
+__pycache__/
+*.pyc
+# OS / misc
+.DS_Store
+# data / notebooks (keep if you need, comment out if not)
+# *.pkl
+# *.joblib
